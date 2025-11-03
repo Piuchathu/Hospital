@@ -6,7 +6,7 @@
     <title>Login/Register Page</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        /* Basic reset and font application */
+        /* Basic reset and font application -----*/
         body {
             font-family: 'Inter', sans-serif;
             margin: 0;

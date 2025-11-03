@@ -74,7 +74,7 @@ try {
     box-sizing: border-box;
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
-
+ /* Body styling -----*/
 body {
     background: var(--background);
     color: var(--text);

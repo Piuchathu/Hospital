@@ -4,7 +4,7 @@ $conn = new mysqli("localhost", "root", "", "teacher_management");
 
 
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    die(": " . $conn->connect_error);
 }
 
 if (!isset($_SESSION['teacher_id'])) {

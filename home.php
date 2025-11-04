@@ -3,7 +3,7 @@ session_start();
 $conn = new mysqli("localhost", "root", "", "teacher_management");
 
 
-if ($conn->connect_error) {
+
     die(": " . $conn->connect_error);
 }
 
